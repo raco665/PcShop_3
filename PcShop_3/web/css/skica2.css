@@ -1,0 +1,119 @@
+
+#homepage{
+    width:960px;
+    background-color: #bac6c0;
+}
+
+#wraper{
+	background:#fff;
+	width:980px;
+	padding:10px;
+	margin:0 auto;
+}
+#hed{
+	float:left;
+	width:200px;
+	height:100px;
+	background:#c51417;
+	width:960px;
+	margin-bottom:5px;
+	}
+.naslov{
+	font-style:italic;
+	margin:10px 5px 5px 10px;
+	width:250px;
+	float:right;
+	color:#fff;
+}
+#komp{
+    position: relative;
+    top: 100px;
+    left: 50px;
+}
+#products{
+    position: relative;
+    top: 110px;
+    left: 145px;
+}
+#kontakt{
+    position: relative;
+    top: 110px;
+    left: 547px;
+}
+#sale{
+    position: relative;
+    top: 470px;
+    right: 260px;
+}
+#search{
+    position: relative;
+    top: 415px;
+    left: 640px;
+}
+iframe{
+	margin-left:50px;
+}
+#bar{
+	clear:both;
+	width:960px;
+	color:#FFF;
+	background:#333;
+}
+.nezavisna{
+	list-style:circle;
+	background:#FFF;
+}
+
+#lista{
+	background:#FFF;
+}
+
+.home,.info,.work,.contact{
+	float:left;
+	
+}
+
+.face,.twit{
+	float:right;
+	margin-right:5px;
+	margin-left:2px;
+	margin-top:8px;
+	margin-bottom:5px;
+}
+.link{
+	float:right;
+	margin-right:0px;
+	margin-left:2px;
+	margin-top:8px;
+	margin-bottom:5px;
+	}
+.twit{
+	float:right;
+	margin-right:0px;
+	margin-left:2px;
+	margin-top:8px;
+	margin-bottom:5px;
+}
+#main{
+	float:left;
+	width:700px;
+	background:#FFF;
+	margin:0 auto;
+}
+
+#side{
+	float:right;
+    text-align:left;
+	width:240px;
+	height:900px;
+}
+#googleMap{
+	float:right;
+}
+#futer{
+	clear:both;
+	color:#CCC;
+	text-align:center;
+	margin-top:10px;
+	background:#333;
+}
